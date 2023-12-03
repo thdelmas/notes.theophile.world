@@ -2,40 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://notes.theophile.world/</loc>
-    <lastmod>2023-12-01T15:19:54+01:00</lastmod>
-  </url><url>
-    <loc>https://notes.theophile.world/rooster/</loc>
-    <lastmod>2023-12-01T15:19:54+01:00</lastmod>
-  </url><url>
-    <loc>https://notes.theophile.world/posts/</loc>
-    <lastmod>2023-12-01T15:19:54+01:00</lastmod>
-  </url><url>
-    <loc>https://notes.theophile.world/internet-from-shared-scooter/</loc>
-    <lastmod>2023-09-01T15:54:51+01:00</lastmod>
-  </url><url>
-    <loc>https://notes.theophile.world/b-the-ant/</loc>
-    <lastmod>2023-08-14T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://notes.theophile.world/trashback-rewards/</loc>
-    <lastmod>2023-08-01T15:57:13+01:00</lastmod>
-  </url><url>
-    <loc>https://notes.theophile.world/sweatcoin-walking-rewards/</loc>
-    <lastmod>2023-07-08T15:50:29+01:00</lastmod>
-  </url><url>
-    <loc>https://notes.theophile.world/bat-brave-rewards/</loc>
-    <lastmod>2023-07-08T15:46:18+01:00</lastmod>
-  </url><url>
-    <loc>https://notes.theophile.world/google-opinion-rewards/</loc>
-    <lastmod>2023-06-10T15:52:00+01:00</lastmod>
-  </url><url>
-    <loc>https://notes.theophile.world/poems-as-propaganda/</loc>
-    <lastmod>2021-02-08T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://notes.theophile.world/readme/</loc>
-  </url><url>
     <loc>https://notes.theophile.world/categories/</loc>
   </url><url>
     <loc>https://notes.theophile.world/tags/</loc>
+  </url><url>
+    <loc>https://notes.theophile.world/</loc>
   </url>
 </urlset>

@@ -1,0 +1,69 @@
+baseURL = 'https://notes.theophile.world/'
+languageCode = 'en-us'
+title = "Théophile's Notes"
+metaDataFormat = "yaml"
+theme = 'hugo-theme-techdoc'
+defaultContentLanguage = "en"
+DefaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+enableMissingTranslationPlaceholders = false
+
+[params]
+    title = "Théophile's Notes"
+    #images = ["images/og-image.png"] # static/images
+    description = "Welcome to my little corner of the internet"
+
+    github_repository = "https://github.com/thdelmas/notes.theophile.world"
+    #version = "0.0.1-dev"
+
+    github_doc_repository = "https://github.com/thdelmas/notes.theophile.world"
+    github_doc_repository_path = ""
+    github_doc_repository_branch = "main"
+
+    # analytics
+
+
+    custom_font_color = ""
+    custom_background_color = ""
+
+    menu_style = "open-menu"
+
+    dateformat = "" # 2 Jan 2006
+
+    menu_exclusion = ["archives"]
+
+    algolia_search_enable = false
+
+    ordersectionsby = 'weight'
+
+[menu]
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+    identifier = "home"
+    pre = "<i class='fa fa-heart'></i>&nbsp;"
+
+[markup]
+    defaultMarkdownHandler = "goldmark"
+    [markup.goldmark.renderer]
+        unsafe = true
+    [markup.tableOfContents]
+        startLevel = 2
+        endLevel = 6
+        ordered = false
+
+[outputs]
+    home = ["HTML", "RSS"]
+
+[permalinks]
+    [permalinks.page]
+        posts = '/:slug/'
+        wikis = '/:slug/'
+    [permalinks.section]
+        posts = '/posts/'
+        wikis = '/wikis/'
+
+#[module]
+#    [[module.imports]]
+#        path = "github.com/thingsym/hugo-theme-techdoc"

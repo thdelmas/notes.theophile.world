@@ -28,6 +28,4 @@ I invite you to join me on this journey of exploration and discovery. Share your
 The content of this blog is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. Feel free to share and adapt the content, but remember to give appropriate credit and avoid using it for commercial purposes.
 
 ## Connect with Me
-
 I'm always eager to engage with fellow explorers and learners. Feel free to reach out to me at [contact@theophile.world](mailto:contact@theophile.world) with your questions, feedback, or suggestions. Let's continue to expand our horizons and enrich our understanding of the world around us.
-

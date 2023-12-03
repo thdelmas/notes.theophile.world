@@ -1,4 +1,4 @@
-baseURL = 'https://main--spiffy-mandazi-18716e.netlify.app/'
+baseURL = 'https://notes.theophile.world/'
 languageCode = 'en-us'
 title = "Théophile's Notes"
 metaDataFormat = "yaml"
@@ -19,13 +19,6 @@ enableMissingTranslationPlaceholders = false
     github_doc_repository = "https://github.com/thdelmas/notes.theophile.world"
     github_doc_repository_path = ""
     github_doc_repository_branch = "main"
-
-    # analytics
-    # Analytic section
-    # Analytic section
-    google_analytics_id = "G-L21N6F7DFS" # Your Google Analytics tracking id
-    tag_manager_container_id = "" # Your Google Tag Manager container id
-    google_site_verification = "" # Your Google Site Verification for Search Console
 
     custom_font_color = ""
     custom_background_color = ""

@@ -18,7 +18,7 @@ bin-release/
 *.apk
 
 # Hugo
-public/
+#public/
 
 # Backup Files
 *.markdown~
@@ -52,7 +52,7 @@ coverage
 build/Release
 
 # Build directories
-public
+#public
 dist
 
 # Dependency directory

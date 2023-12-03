@@ -1,5 +1,5 @@
 # notes.theophile.world
-[My Notes](http://notes.theophile.world/)
+[My Notes](https://notes-theophile.netlify.app/)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c93ed4ff-1021-4653-afc2-dd71e19be702/deploy-status)](https://app.netlify.com/sites/notes-theophile/deploys)
 
 ## Guide to DIY, Tech, Hacking, Self-Development, Art, and Philosophy

@@ -1,4 +1,4 @@
-baseURL = 'https://notes.theophile.world/'
+baseURL = 'https://notes-theophile.netlify.app/'
 languageCode = 'en-us'
 title = "Théophile's Notes"
 metaDataFormat = "yaml"

@@ -1,4 +1,4 @@
-baseURL = 'https://notes.theophile.world/'
+baseURL = 'http://notes.theophile.world/'
 languageCode = 'en-us'
 title = "Théophile's Notes"
 metaDataFormat = "yaml"

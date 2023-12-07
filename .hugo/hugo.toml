@@ -7,6 +7,7 @@ defaultContentLanguage = "en"
 DefaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 enableMissingTranslationPlaceholders = false
+googleAnalytics = "G-L21N6F7DFS"
 
 [params]
     title = "Théophile's Notes"

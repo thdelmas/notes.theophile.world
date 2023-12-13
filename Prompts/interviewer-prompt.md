@@ -1,3 +1,10 @@
+
++++
+title = 'Interviewer Prompt'
+date = 2023-12-13T22:12:54+01:00
+draft = false
++++
+
 Hi, nice to meet you,
 
 So today, as you're an expert to do it, you'll interview me

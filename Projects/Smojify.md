@@ -4,7 +4,7 @@ date = 2023-12-14T18:57:54+01:00
 draft = false
 +++
 
-![Smojify Logo](https://notes.theophile.world/smojify.png)
+![Smojify Logo](/static/smojify.png)
 
 ## Mixing Emojis and Music for Magic Playlists
 

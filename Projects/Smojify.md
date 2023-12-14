@@ -4,6 +4,8 @@ date = 2023-12-14T18:57:54+01:00
 draft = false
 +++
 
+![Smojify Logo](https://github.com/Smojify/Smojify-Android/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
+
 ## Mixing Emojis and Music for Magic Playlists
 
 I've always been a bit terrible at naming my music playlists. I mean, how do you encapsulate a vibe or a feeling in just a few words, right? So, I set out on this wild idea that merges my love for freedom, art, and innovation with the crazy emotional rollercoaster that is music.

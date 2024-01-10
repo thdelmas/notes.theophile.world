@@ -111,6 +111,7 @@
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 </p>
+
 ### Copyright
 
 - Content under [CC-BY](https://github.com/thdelmas/notes.theophile.world/blob/main/LICENSE).

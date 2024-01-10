@@ -1,11 +1,9 @@
 
 +++
-title = 'e/OS'
+title = 'e/OS: Google-Free Android'
 date = 2024-01-10T14:34:54+01:00
 draft = false
 +++
-
-# e/OS: Google-Free Android
 
 [e/OS](https://e.foundation/e-os/) is an Android-based mobile operating system that kicks Google to the curb. It strips away all Google apps and services, giving users a privacy-focused smartphone experience. Built on [LineageOS](https://lineageos.org/), it's open-source, allowing anyone to check it for potential privacy breaches.
 

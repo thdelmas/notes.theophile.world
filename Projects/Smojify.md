@@ -8,7 +8,9 @@ draft = false
 
 ## Mixing Emojis and Music for Magic Playlists
 
-I've always been a bit terrible at naming my music playlists. I mean, how do you encapsulate a vibe or a feeling in just a few words, right? So, I set out on this wild idea that merges my love for freedom, art, and innovation with the crazy emotional rollercoaster that is music.
+I've always been a bit terrible at naming my music playlists.
+I mean, how do you encapsulate a vibe or a feeling in just a few words, right?
+So, I set out on this wild idea that merges my love for freedom, art, and innovation with the crazy emotional rollercoaster that is music.
 
 My tech background led me to help startups spread their wings, and I also dabbled as the tech and teaching honcho at the 42 Network campus in Barcelona. But hey, let's talk about something really cool I've been tinkering with—a little something called Smojify.
 

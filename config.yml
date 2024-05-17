@@ -1,7 +1,7 @@
 # If your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would
 # contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
 baseURL: "https://notes.theophile.world/"
-title: "Théophile Delmas' Notes"
+title: "Théophile's Notes"
 copyright: "© Théophile Delmas"
 paginate: 5
 theme: [hugo-PaperMod]
@@ -354,11 +354,16 @@ params:
 
   socialIcons:
     - name: github
-      title: View Source on Github
-      url: "https://github.com/Ack-Ninja/digitramp.org"
-    - name: Discord
-      title: Join discord community
-      url: "https://discord.gg/HShSNma2"
+      title: View on Github
+      url: "https://github.com/thdelmas/digitramp.org"
+    - name: email
+      url: "mailto:contact@theophile.world"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/thdelmas/"
+    - name: medium
+      url: "https://medium.com/@_mia"
+    - name: rss
+      url: /index.xml
 
   editPost:
     URL: "https://github.com/Ack-Ninja/digitramp.org/tree/main/content"

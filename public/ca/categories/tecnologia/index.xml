@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tecnologia on Digitramp 3.0</title>
+    <link>http://localhost:1313/ca/categories/tecnologia/</link>
+    <description>Recent content in Tecnologia on Digitramp 3.0</description>
+    <image>
+      <title>Digitramp 3.0</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.126.1</generator>
+    <language>ca</language>
+    <copyright>Digitramp Contributors</copyright>
+    <lastBuildDate>Tue, 03 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/ca/categories/tecnologia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cobra per resoldre problemes de Git</title>
+      <link>http://localhost:1313/ca/posts/how-to-make-money-solving-git-issues/</link>
+      <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ca/posts/how-to-make-money-solving-git-issues/</guid>
+      <description>Una guia concisa sobre com guanyar diners resolent problemes de Git i contribuint a projectes de codi obert.</description>
+    </item>
+    <item>
+      <title>Internet des del patinet elèctric compartit</title>
+      <link>http://localhost:1313/ca/posts/internet-from-shared-scooter/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ca/posts/internet-from-shared-scooter/</guid>
+      <description>Una guia sobre com accedir a internet utilitzant la targeta SIM de l&amp;#39; rastrejador IoT d&amp;#39;un patinet elèctric.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/ca/posts/bat-brave-rewards/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ca/posts/bat-brave-rewards/</guid>
+      <description>Generar Ingressos amb el Basic Attention Token (BAT) Utilitzant el Navegador Brave Per què? En l&amp;rsquo;economia digital en evolució, trobar maneres innovadores de generar ingressos és essencial. El Basic Attention Token (BAT) ofereix una oportunitat única per guanyar criptomonedes simplement navegant per internet. Mitjançant el navegador Brave, els usuaris poden guanyar BAT per veure anuncis que respecten la privacitat, oferint una font d&amp;rsquo;ingressos passius. Aquesta guia t&amp;rsquo;ajudarà a entendre el procés i els beneficis de guanyar BAT amb el navegador Brave.</description>
+    </item>
+  </channel>
+</rss>

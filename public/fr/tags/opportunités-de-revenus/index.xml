@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Opportunités De Revenus on Digitramp 3.0</title>
+    <link>http://localhost:1313/fr/tags/opportunit%C3%A9s-de-revenus/</link>
+    <description>Recent content in Opportunités De Revenus on Digitramp 3.0</description>
+    <image>
+      <title>Digitramp 3.0</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.126.1</generator>
+    <language>fr</language>
+    <copyright>Digitramp Contributors</copyright>
+    <lastBuildDate>Sat, 07 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/fr/tags/opportunit%C3%A9s-de-revenus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Être payé pour apprendre sur la crypto</title>
+      <link>http://localhost:1313/fr/posts/learn-and-earn-crypto/</link>
+      <pubDate>Sat, 07 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/posts/learn-and-earn-crypto/</guid>
+      <description>Découvrez comment gagner des cryptomonnaies en participant à des programmes d&amp;#39;apprentissage et de récompenses. Comprenez les avantages, les étapes et les astuces pour maximiser vos gains.</description>
+    </item>
+  </channel>
+</rss>

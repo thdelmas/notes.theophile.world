@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>BAT on Digitramp 3.0</title>
+    <link>http://localhost:1313/fr/tags/bat/</link>
+    <description>Recent content in BAT on Digitramp 3.0</description>
+    <image>
+      <title>Digitramp 3.0</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.126.1</generator>
+    <language>fr</language>
+    <copyright>Digitramp Contributors</copyright>
+    <lastBuildDate>Thu, 05 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/fr/tags/bat/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Générer des revenus avec le jeton Basic Attention (BAT) en utilisant le navigateur Brave</title>
+      <link>http://localhost:1313/fr/posts/bat-brave-rewards/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/posts/bat-brave-rewards/</guid>
+      <description>Un guide complet sur la façon de gagner des jetons Basic Attention (BAT) en utilisant le navigateur Brave, comprenant les étapes pour commencer et les opportunités de gains supplémentaires.</description>
+    </item>
+  </channel>
+</rss>

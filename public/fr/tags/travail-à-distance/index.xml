@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Travail À Distance on Digitramp 3.0</title>
+    <link>http://localhost:1313/fr/tags/travail-%C3%A0-distance/</link>
+    <description>Recent content in Travail À Distance on Digitramp 3.0</description>
+    <image>
+      <title>Digitramp 3.0</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.126.1</generator>
+    <language>fr</language>
+    <copyright>Digitramp Contributors</copyright>
+    <lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/fr/tags/travail-%C3%A0-distance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Être payé pour faire de la garde de maison : un guide complet</title>
+      <link>http://localhost:1313/fr/posts/get-paid-for-housekeeping/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/posts/get-paid-for-housekeeping/</guid>
+      <description>Un guide détaillé sur comment gagner de l&amp;#39;argent en faisant de la garde de maison, couvrant tout, de la recherche d&amp;#39;opportunités à l&amp;#39;excellence dans le rôle.</description>
+    </item>
+  </channel>
+</rss>

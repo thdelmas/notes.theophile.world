@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Prestatasuna on Digitramp 3.0</title>
+    <link>http://localhost:1313/eu/tags/prestatasuna/</link>
+    <description>Recent content in Prestatasuna on Digitramp 3.0</description>
+    <image>
+      <title>Digitramp 3.0</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.126.1</generator>
+    <language>eu</language>
+    <copyright>Digitramp Contributors</copyright>
+    <lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/eu/tags/prestatasuna/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post-apokalipsiaren ondoren bizirik irauteko oinarrizko eta erabilgarriak diren gauzak</title>
+      <link>http://localhost:1313/eu/posts/survival-pack/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/posts/survival-pack/</guid>
+      <description>Gida zabala post-apokalipsiaren ondoren bizirik irauteko oinarrizko eta erabilgarriak diren gauzen inguruan, komunitateak berrikusitako onenak eta non erosi ditzakezun azkarren entregatzeko.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Sostenibilitat on Digitramp 3.0</title>
+    <link>http://localhost:1313/ca/categories/sostenibilitat/</link>
+    <description>Recent content in Sostenibilitat on Digitramp 3.0</description>
+    <image>
+      <title>Digitramp 3.0</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.126.1</generator>
+    <language>ca</language>
+    <copyright>Digitramp Contributors</copyright>
+    <lastBuildDate>Sat, 03 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/ca/categories/sostenibilitat/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Estalvia diners i redueix el malbaratament d&#39;aliments amb &#39;Too Good To Go&#39;</title>
+      <link>http://localhost:1313/ca/posts/too-good-to-go/</link>
+      <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ca/posts/too-good-to-go/</guid>
+      <description>Descobreix com l&amp;#39;aplicació &amp;#39;Too Good To Go&amp;#39; et permet estalviar diners en menjars mentre combat el malbaratament d&amp;#39;aliments. Aprèn els beneficis, com utilitzar l&amp;#39;app i l&amp;#39;impacte positiu en el medi ambient.</description>
+    </item>
+    <item>
+      <title>Cobra per recollir escombraries</title>
+      <link>http://localhost:1313/ca/posts/how-to-make-money-trashback/</link>
+      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ca/posts/how-to-make-money-trashback/</guid>
+      <description>Descobreix com pots guanyar diners i ajudar al medi ambient recollint escombraries amb l&amp;#39;aplicació TrashBack.</description>
+    </item>
+    <item>
+      <title>Trashback Rewards: Convertir la brossa en recompenses lucratives</title>
+      <link>http://localhost:1313/ca/posts/trashback-rewards/</link>
+      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ca/posts/trashback-rewards/</guid>
+      <description>Aprèn com guanyar recompenses netejant el medi ambient amb l&amp;#39;aplicació TrashBack. Aquesta guia explica com començar, recollir brossa, guanyar punts i canviar-los per recompenses.</description>
+    </item>
+  </channel>
+</rss>

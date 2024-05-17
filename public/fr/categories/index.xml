@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on Digitramp 3.0</title>
+    <link>http://localhost:1313/fr/categories/</link>
+    <description>Recent content in Categories on Digitramp 3.0</description>
+    <image>
+      <title>Digitramp 3.0</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.126.1</generator>
+    <language>fr</language>
+    <copyright>Digitramp Contributors</copyright>
+    <lastBuildDate>Sat, 02 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/fr/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Durabilité</title>
+      <link>http://localhost:1313/fr/categories/durabilit%C3%A9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/categories/durabilit%C3%A9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Finance</title>
+      <link>http://localhost:1313/fr/categories/finance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/categories/finance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Santé</title>
+      <link>http://localhost:1313/fr/categories/sant%C3%A9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/categories/sant%C3%A9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Style De Vie</title>
+      <link>http://localhost:1313/fr/categories/style-de-vie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/categories/style-de-vie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Petits Boulots</title>
+      <link>http://localhost:1313/fr/categories/petits-boulots/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/categories/petits-boulots/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Entraînement D&#39;Animaux</title>
+      <link>http://localhost:1313/fr/categories/entra%C3%AEnement-danimaux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/categories/entra%C3%AEnement-danimaux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Opportunités De Revenus</title>
+      <link>http://localhost:1313/fr/categories/opportunit%C3%A9s-de-revenus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/categories/opportunit%C3%A9s-de-revenus/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Revenu Alternatif</title>
+      <link>http://localhost:1313/fr/categories/revenu-alternatif/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/categories/revenu-alternatif/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cryptomonnaie</title>
+      <link>http://localhost:1313/fr/categories/cryptomonnaie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/categories/cryptomonnaie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technologie</title>
+      <link>http://localhost:1313/fr/categories/technologie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/categories/technologie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nomade Digital</title>
+      <link>http://localhost:1313/fr/categories/nomade-digital/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/categories/nomade-digital/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Préparation</title>
+      <link>http://localhost:1313/fr/categories/pr%C3%A9paration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/categories/pr%C3%A9paration/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Survie</title>
+      <link>http://localhost:1313/fr/categories/survie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/categories/survie/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Comportamiento Animal on Digitramp 3.0</title>
+    <link>http://localhost:1313/es/tags/comportamiento-animal/</link>
+    <description>Recent content in Comportamiento Animal on Digitramp 3.0</description>
+    <image>
+      <title>Digitramp 3.0</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.126.1</generator>
+    <language>es</language>
+    <copyright>Digitramp Contributors</copyright>
+    <lastBuildDate>Fri, 06 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/es/tags/comportamiento-animal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Obtener Trabajadores Cuervos: Cómo Entrenar a los Cuervos para Traer Objetos</title>
+      <link>http://localhost:1313/es/posts/get-crow-workers/</link>
+      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/posts/get-crow-workers/</guid>
+      <description>Una guía sobre cómo entrenar a los cuervos para traer objetos, incluyendo los materiales necesarios, instrucciones paso a paso y consejos para un entrenamiento exitoso.</description>
+    </item>
+  </channel>
+</rss>

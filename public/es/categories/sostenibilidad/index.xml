@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Sostenibilidad on Digitramp 3.0</title>
+    <link>http://localhost:1313/es/categories/sostenibilidad/</link>
+    <description>Recent content in Sostenibilidad on Digitramp 3.0</description>
+    <image>
+      <title>Digitramp 3.0</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.126.1</generator>
+    <language>es</language>
+    <copyright>Digitramp Contributors</copyright>
+    <lastBuildDate>Sat, 03 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/es/categories/sostenibilidad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ahorra dinero y reduce el desperdicio de alimentos con &#39;Too Good To Go&#39;</title>
+      <link>http://localhost:1313/es/posts/too-good-to-go/</link>
+      <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/posts/too-good-to-go/</guid>
+      <description>Descubre cómo la aplicación &amp;#39;Too Good To Go&amp;#39; te ayuda a ahorrar dinero en comidas mientras combate el desperdicio de alimentos. Aprende sobre los beneficios, cómo usar la aplicación y el impacto positivo en el medio ambiente.</description>
+    </item>
+    <item>
+      <title>Gana dinero recogiendo basura</title>
+      <link>http://localhost:1313/es/posts/how-to-make-money-trashback/</link>
+      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/posts/how-to-make-money-trashback/</guid>
+      <description>Descubre cómo puedes ganar dinero y ayudar al medio ambiente recolectando basura usando la aplicación TrashBack.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Nòmada Digital on Digitramp 3.0</title>
+    <link>http://localhost:1313/ca/categories/n%C3%B2mada-digital/</link>
+    <description>Recent content in Nòmada Digital on Digitramp 3.0</description>
+    <image>
+      <title>Digitramp 3.0</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.126.1</generator>
+    <language>ca</language>
+    <copyright>Digitramp Contributors</copyright>
+    <atom:link href="http://localhost:1313/ca/categories/n%C3%B2mada-digital/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/ca/posts/codearena/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ca/posts/codearena/</guid>
+      <description>Per què? En el panorama d&amp;rsquo;oportunitats d&amp;rsquo;ingressos alternatives, el món digital ofereix una gran quantitat d&amp;rsquo;opcions per aquells amb habilitats en programació. CodeArena destaca com una plataforma que no només permet als desenvolupadors millorar les seves habilitats sinó també guanyar diners a través de reptes de programació. Aprofita l&amp;rsquo;esperit competitiu de la programació organitzant concursos on les millors solucions són recompensades. Aquesta plataforma és especialment atractiva per als programadors que volen monetitzar les seves habilitats, participar en una competició saludable i obtenir reconeixement a la comunitat de desenvolupadors.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/ca/posts/google-opinion-rewards/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ca/posts/google-opinion-rewards/</guid>
+      <description>Com guanyar diners amb Google Opinion Rewards Google Opinion Rewards és una aplicació mòbil creada per l&amp;rsquo;equip de Google Surveys que et permet guanyar crèdit de Google Play responent enquestes curtes. En aquest tutorial, t&amp;rsquo;acompanyarem en el procés per començar amb Google Opinion Rewards i maximitzar el teu potencial de guany.
+Per què? Google Opinion Rewards ofereix una manera simple i convenient de guanyar ingressos addicionals en forma de crèdits de Google Play.</description>
+    </item>
+  </channel>
+</rss>

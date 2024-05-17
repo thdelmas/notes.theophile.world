@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Digitramp 3.0</title>
+    <link>http://localhost:1313/eu/tags/</link>
+    <description>Recent content in Tags on Digitramp 3.0</description>
+    <image>
+      <title>Digitramp 3.0</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.126.1</generator>
+    <language>eu</language>
+    <copyright>Digitramp Contributors</copyright>
+    <lastBuildDate>Sun, 04 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/eu/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CodeArena</title>
+      <link>http://localhost:1313/eu/tags/codearena/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/codearena/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Irabazi Alternatiboa</title>
+      <link>http://localhost:1313/eu/tags/irabazi-alternatiboa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/irabazi-alternatiboa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kodea</title>
+      <link>http://localhost:1313/eu/tags/kodea/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/kodea/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Programazio Erronkak</title>
+      <link>http://localhost:1313/eu/tags/programazio-erronkak/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/programazio-erronkak/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Aurreztuak</title>
+      <link>http://localhost:1313/eu/tags/aurreztuak/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/aurreztuak/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Deskontuak</title>
+      <link>http://localhost:1313/eu/tags/deskontuak/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/deskontuak/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Diru Aurrezpena</title>
+      <link>http://localhost:1313/eu/tags/diru-aurrezpena/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/diru-aurrezpena/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dirua Irabazi</title>
+      <link>http://localhost:1313/eu/tags/dirua-irabazi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/dirua-irabazi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Elikagai Hutsen Desperdizioa</title>
+      <link>http://localhost:1313/eu/tags/elikagai-hutsen-desperdizioa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/elikagai-hutsen-desperdizioa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fitness Aplikazioak</title>
+      <link>http://localhost:1313/eu/tags/fitness-aplikazioak/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/fitness-aplikazioak/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ibilbideen Sariak</title>
+      <link>http://localhost:1313/eu/tags/ibilbideen-sariak/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/ibilbideen-sariak/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ingurumena</title>
+      <link>http://localhost:1313/eu/tags/ingurumena/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/ingurumena/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>La Cuponera</title>
+      <link>http://localhost:1313/eu/tags/la-cuponera/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/la-cuponera/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Smart Shopping</title>
+      <link>http://localhost:1313/eu/tags/smart-shopping/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/smart-shopping/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Too Good to Go</title>
+      <link>http://localhost:1313/eu/tags/too-good-to-go/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/too-good-to-go/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Google Opinion Rewards</title>
+      <link>http://localhost:1313/eu/tags/google-opinion-rewards/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/google-opinion-rewards/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Google Play</title>
+      <link>http://localhost:1313/eu/tags/google-play/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/google-play/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Inkestak</title>
+      <link>http://localhost:1313/eu/tags/inkestak/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/inkestak/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Animalien Jarrera</title>
+      <link>http://localhost:1313/eu/tags/animalien-jarrera/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/animalien-jarrera/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bizi Jasangarriak</title>
+      <link>http://localhost:1313/eu/tags/bizi-jasangarriak/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/bizi-jasangarriak/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ekologikoki Diru-Sarrerak</title>
+      <link>http://localhost:1313/eu/tags/ekologikoki-diru-sarrerak/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/ekologikoki-diru-sarrerak/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gaitasun Bereziak</title>
+      <link>http://localhost:1313/eu/tags/gaitasun-bereziak/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/gaitasun-bereziak/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ibiltzen Diruak</title>
+      <link>http://localhost:1313/eu/tags/ibiltzen-diruak/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/ibiltzen-diruak/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ingurumen Sariak</title>
+      <link>http://localhost:1313/eu/tags/ingurumen-sariak/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/ingurumen-sariak/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Irabazi Alternatiboak</title>
+      <link>http://localhost:1313/eu/tags/irabazi-alternatiboak/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/irabazi-alternatiboak/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Irabazi Pasiboa</title>
+      <link>http://localhost:1313/eu/tags/irabazi-pasiboa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/irabazi-pasiboa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Osasuna</title>
+      <link>http://localhost:1313/eu/tags/osasuna/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/osasuna/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sariak</title>
+      <link>http://localhost:1313/eu/tags/sariak/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/sariak/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sugeen Entrenamendua</title>
+      <link>http://localhost:1313/eu/tags/sugeen-entrenamendua/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/sugeen-entrenamendua/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sweatcoin</title>
+      <link>http://localhost:1313/eu/tags/sweatcoin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/sweatcoin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TrashBack</title>
+      <link>http://localhost:1313/eu/tags/trashback/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/trashback/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Albaitari Lana</title>
+      <link>http://localhost:1313/eu/tags/albaitari-lana/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/albaitari-lana/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>BAT</title>
+      <link>http://localhost:1313/eu/tags/bat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/bat/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bloke Katea</title>
+      <link>http://localhost:1313/eu/tags/bloke-katea/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/bloke-katea/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Brave Nabigatzailea</title>
+      <link>http://localhost:1313/eu/tags/brave-nabigatzailea/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/brave-nabigatzailea/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Criptomoneta</title>
+      <link>http://localhost:1313/eu/tags/criptomoneta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/criptomoneta/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Diru Sarrera Pasiboa</title>
+      <link>http://localhost:1313/eu/tags/diru-sarrera-pasiboa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/diru-sarrera-pasiboa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Diru Sarrerak</title>
+      <link>http://localhost:1313/eu/tags/diru-sarrerak/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/diru-sarrerak/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Errenta Pasiboa</title>
+      <link>http://localhost:1313/eu/tags/errenta-pasiboa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/errenta-pasiboa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Etxeko Kontserbatzea</title>
+      <link>http://localhost:1313/eu/tags/etxeko-kontserbatzea/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/etxeko-kontserbatzea/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Etxeko Lanak</title>
+      <link>http://localhost:1313/eu/tags/etxeko-lanak/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/etxeko-lanak/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kripto</title>
+      <link>http://localhost:1313/eu/tags/kripto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/kripto/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Staking</title>
+      <link>http://localhost:1313/eu/tags/staking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/staking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Errenta</title>
+      <link>http://localhost:1313/eu/tags/errenta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/errenta/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Freelance</title>
+      <link>http://localhost:1313/eu/tags/freelance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/freelance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Git</title>
+      <link>http://localhost:1313/eu/tags/git/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/git/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kode Irekia</title>
+      <link>http://localhost:1313/eu/tags/kode-irekia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/kode-irekia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ikasi Eta Erabili</title>
+      <link>http://localhost:1313/eu/tags/ikasi-eta-erabili/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/ikasi-eta-erabili/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Irabazi</title>
+      <link>http://localhost:1313/eu/tags/irabazi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/irabazi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kriptoaurrea</title>
+      <link>http://localhost:1313/eu/tags/kriptoaurrea/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/kriptoaurrea/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bizirik Irauteko</title>
+      <link>http://localhost:1313/eu/tags/bizirik-irauteko/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/bizirik-irauteko/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Post-Apokalipsia</title>
+      <link>http://localhost:1313/eu/tags/post-apokalipsia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/post-apokalipsia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Prestatasuna</title>
+      <link>http://localhost:1313/eu/tags/prestatasuna/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/prestatasuna/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tresnak</title>
+      <link>http://localhost:1313/eu/tags/tresnak/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/tresnak/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Digital Nomad</title>
+      <link>http://localhost:1313/eu/tags/digital-nomad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/digital-nomad/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Eskuter Elektriko</title>
+      <link>http://localhost:1313/eu/tags/eskuter-elektriko/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/eskuter-elektriko/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Interneteko Sarbidea</title>
+      <link>http://localhost:1313/eu/tags/interneteko-sarbidea/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/interneteko-sarbidea/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IoT</title>
+      <link>http://localhost:1313/eu/tags/iot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/tags/iot/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

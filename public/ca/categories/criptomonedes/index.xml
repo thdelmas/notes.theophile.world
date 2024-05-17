@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Criptomonedes on Digitramp 3.0</title>
+    <link>http://localhost:1313/ca/categories/criptomonedes/</link>
+    <description>Recent content in Criptomonedes on Digitramp 3.0</description>
+    <image>
+      <title>Digitramp 3.0</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.126.1</generator>
+    <language>ca</language>
+    <copyright>Digitramp Contributors</copyright>
+    <lastBuildDate>Thu, 05 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/ca/categories/criptomonedes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Genera Ingressos Passius amb les teves Criptomonedes</title>
+      <link>http://localhost:1313/ca/posts/stacking-crypto/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ca/posts/stacking-crypto/</guid>
+      <description>Aprèn com guanyar ingressos passius apostant pels teus actius de criptomonedes i participant en la validació de xarxes blockchain.</description>
+    </item>
+    <item>
+      <title>Cobra per aprendre sobre criptomonedes</title>
+      <link>http://localhost:1313/ca/posts/learn-and-earn-crypto/</link>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ca/posts/learn-and-earn-crypto/</guid>
+      <description>Descobreix com guanyar criptomonedes participant en programes d&amp;#39;aprenentatge i guany. Aquesta guia explica per què existeixen aquests programes, com començar i consells per maximitzar els teus guanys.</description>
+    </item>
+  </channel>
+</rss>

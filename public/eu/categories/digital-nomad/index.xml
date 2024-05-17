@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Digital Nomad on Digitramp 3.0</title>
+    <link>http://localhost:1313/eu/categories/digital-nomad/</link>
+    <description>Recent content in Digital Nomad on Digitramp 3.0</description>
+    <image>
+      <title>Digitramp 3.0</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.126.1</generator>
+    <language>eu</language>
+    <copyright>Digitramp Contributors</copyright>
+    <lastBuildDate>Thu, 05 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/eu/categories/digital-nomad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Errentabetetik Errenta Sortu BAT (Basic Attention Token) erabiliz</title>
+      <link>http://localhost:1313/eu/posts/bat-brave-rewards/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/posts/bat-brave-rewards/</guid>
+      <description>Ikasi nola Basic Attention Token (BAT) irabaztea Brave nabigatzailea erabiliz, iragarkiak ikusteko eta BAT Sortzaile programan parte hartzeko.</description>
+    </item>
+  </channel>
+</rss>

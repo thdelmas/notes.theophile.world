@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Wildlife Interaction on Digitramp 3.0</title>
+    <link>http://localhost:1313/tags/wildlife-interaction/</link>
+    <description>Recent content in Wildlife Interaction on Digitramp 3.0</description>
+    <image>
+      <title>Digitramp 3.0</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.126.1</generator>
+    <language>en</language>
+    <copyright>Digitramp Contributors</copyright>
+    <lastBuildDate>Tue, 10 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/wildlife-interaction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Training Crows to Bring Objects: A Comprehensive Guide</title>
+      <link>http://localhost:1313/posts/get-crow-workers/</link>
+      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/get-crow-workers/</guid>
+      <description>This guide provides detailed steps and tips for training crows to bring objects to humans, emphasizing patience, consistency, and positive reinforcement.</description>
+    </item>
+  </channel>
+</rss>

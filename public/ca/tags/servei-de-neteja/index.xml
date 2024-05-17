@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Servei De Neteja on Digitramp 3.0</title>
+    <link>http://localhost:1313/ca/tags/servei-de-neteja/</link>
+    <description>Recent content in Servei De Neteja on Digitramp 3.0</description>
+    <image>
+      <title>Digitramp 3.0</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.126.1</generator>
+    <language>ca</language>
+    <copyright>Digitramp Contributors</copyright>
+    <lastBuildDate>Thu, 05 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/ca/tags/servei-de-neteja/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guia per a guanyar diners amb el servei de custòdia de cases</title>
+      <link>http://localhost:1313/ca/posts/get-paid-for-housekeeping/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ca/posts/get-paid-for-housekeeping/</guid>
+      <description>Una guia completa sobre com guanyar diners a través de la custòdia de cases, incloent consells per trobar oportunitats, crear un perfil sòlid i destacar en les assignacions.</description>
+    </item>
+  </channel>
+</rss>

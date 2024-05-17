@@ -1,32 +1,106 @@
-# notes.theophile.world
-[My Notes](https://notes-theophile.netlify.app/)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/c93ed4ff-1021-4653-afc2-dd71e19be702/deploy-status)](https://app.netlify.com/sites/notes-theophile/deploys)
+<h1 align=center>Hugo PaperMod | <a href="https://adityatelange.github.io/hugo-PaperMod/" rel="nofollow">Demo</a></h1>
 
-## Guide to DIY, Tech, Hacking, Self-Development, Art, and Philosophy
+<h4 align=center>☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive</h4>
+<br>
 
-Welcome to my little corner of the internet, where we explore the vast expanse of human knowledge and creativity. This repository is home to a collection of articles and resources that I've gathered over the years, covering a wide range of topics that have sparked my curiosity and fueled my passions.
+> Hugo PaperMod is a theme based on [hugo-paper](https://github.com/nanxiaobei/hugo-paper/tree/4330c8b12aa48bfdecbcad6ad66145f679a430b3).<br>
+> The goal of this project is to add more features and customization to the og theme.
 
-## A Journey into the World of DIY, Tech, Hacking, and More
+**Documentation** can be found here: [**📚 Wiki**](https://github.com/adityatelange/hugo-PaperMod/wiki)
 
-* **DIY:** Embrace your inner handyman or craftsperson and delve into the world of home repairs, renovations, crafts, and DIY projects. Let's transform your living space, unleash your creativity, and learn new skills along the way.
+**ExampleSite** can be found here: [**exampleSite**](https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite). Demo is built up with [exampleSite](https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite) as source.
 
-* **Tech:** Stay ahead of the curve and dive into the ever-evolving realm of technology. We'll explore the latest gadgets, trends, and tips that can enhance your life and broaden your understanding of the digital world.
+[![hugo-papermod](https://img.shields.io/badge/Hugo--Themes-@PaperMod-blue)](https://themes.gohugo.io/themes/hugo-papermod/)
+[![Minimum Hugo Version](https://img.shields.io/static/v1?label=min-HUGO-version&message=>=v0.112.4&color=blue&logo=hugo)](https://github.com/gohugoio/hugo/releases/tag/v0.112.4)
+[![Discord](https://img.shields.io/discord/971046860317921340?label=Discord&logo=discord)](https://discord.gg/ahpmTvhVmp)
+[![GitHub](https://img.shields.io/github/license/adityatelange/hugo-PaperMod)](https://github.com/adityatelange/hugo-PaperMod/blob/master/LICENSE)
+![code-size](https://img.shields.io/github/languages/code-size/adityatelange/hugo-PaperMod)
+[![X (formerly Twitter) URL](https://img.shields.io/badge/-Share%20on%20X-gray?style=flat&logo=x)](https://x.com/intent/tweet/?text=Checkout%20Hugo%20PaperMod%20%E2%9C%A8%0AA%20fast,%20clean,%20responsive%20Hugo%20theme.&url=https://github.com/adityatelange/hugo-PaperMod&hashtags=Hugo,PaperMod)
 
-* **Hacking:** Embark on a journey into the intriguing world of cybersecurity, hacking techniques, and ethical hacking. Let's unravel the mysteries of cyberspace, understand its vulnerabilities, and learn how to defend against threats.
 
-* **Self-Development:** Embark on a path of personal growth and self-discovery. Explore strategies for goal setting, achieving your dreams, and cultivating a happier, more fulfilling life.
+---
 
-* **Art:** Immerse yourself in the captivating world of art. Let's explore the masterpieces of art history, delve into the minds of contemporary artists, and learn to appreciate the beauty that surrounds us.
+<p align="center">
+  <kbd><img src="https://user-images.githubusercontent.com/21258296/114303440-bfc0ae80-9aeb-11eb-8cfa-48a4bb385a6d.png" alt="Mockup image" title="Mockup"/></kbd>
+</p>
 
-* **Philosophy:** Ponder the profound questions that have intrigued humanity for centuries. Engage with different philosophical schools of thought, grapple with ethical dilemmas, and seek answers to the meaning of life.
+---
 
-## Join the Journey
+## Features/Mods 💥
 
-I invite you to join me on this journey of exploration and discovery. Share your knowledge, insights, and experiences as we navigate the diverse landscapes of DIY, tech, hacking, self-development, art, and philosophy.
+-   Uses Hugo's asset generator with pipelining, fingerprinting, bundling and minification by default.
+-   3 Modes:
+    -   [Regular Mode.](https://github.com/adityatelange/hugo-PaperMod/wiki/Features#regular-mode-default-mode)
+    -   [Home-Info Mode.](https://github.com/adityatelange/hugo-PaperMod/wiki/Features#home-info-mode)
+    -   [Profile Mode.](https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode)
+-   Table of Content Generation (newer implementation).
+-   Archive of posts.
+-   Social Icons (home-info and profile-mode).
+-   Social-Media Share buttons on posts.
+-   Menu location indicator.
+-   Multilingual support. (with language selector).
+-   Taxonomies.
+-   Cover image for each post (with Responsive image support).
+-   Light/Dark theme (automatic theme switch a/c to browser theme and theme-switch button).
+-   SEO Friendly.
+-   Multiple Author support.
+-   Search Page with Fuse.js
+-   Other Posts suggestion below a post
+-   Breadcrumb Navigation.
+-   Code Block Copy buttons.
+-   Hugo's Chroma syntax highlighter.
+-   No webpack, nodejs and other dependencies are required to edit the theme.
 
-## License
+Read Wiki For More Details => **[PaperMod - Features](https://github.com/adityatelange/hugo-PaperMod/wiki/Features)**
 
-The content of this blog is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. Feel free to share and adapt the content, but remember to give appropriate credit and avoid using it for commercial purposes.
+---
 
-## Connect with Me
-I'm always eager to engage with fellow explorers and learners. Feel free to reach out to me at [contact@theophile.world](mailto:contact@theophile.world) with your questions, feedback, or suggestions. Let's continue to expand our horizons and enrich our understanding of the world around us.
+## Install/Update 📥
+
+Read Wiki For More Details => **[PaperMod - Installation](https://github.com/adityatelange/hugo-PaperMod/wiki/Installation)**
+
+---
+
+## FAQs / How To's Guide 🙋
+
+Read Wiki For More Details => **[PaperMod-FAQs](https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs)**
+
+---
+
+## Social-Icons/Share-Icons 🖼️
+
+Read Wiki For More Details => **[PaperMod-Icons](https://github.com/adityatelange/hugo-PaperMod/wiki/Icons)**
+
+---
+
+## Release Changelog 📃
+
+Release ChangeLog has info about stuff added: **[Releases](https://github.com/adityatelange/hugo-PaperMod/releases)**
+
+---
+
+## [Pagespeed Insights (100% ?)](https://pagespeed.web.dev/report?url=https://adityatelange.github.io/hugo-PaperMod/) 👀
+
+---
+
+## Support 🫶
+
+-   Star 🌟 this repository.
+-   Help spread the word about PaperMod by sharing it on social media and recommending it to your friends. 🗣️
+-   You can also sponsor 🏅 on [Github Sponsors](https://github.com/sponsors/adityatelange) / [Ko-Fi](https://ko-fi.com/adityatelange).
+
+---
+
+## Special Thanks 🌟
+
+-   [**Highlight.js**](https://github.com/highlightjs/highlight.js)
+-   [**Fuse.js**](https://github.com/krisk/fuse)
+-   [**Feather Icons**](https://github.com/feathericons/feather)
+-   [**Simple Icons**](https://github.com/simple-icons/simple-icons)
+-   **All Contributors and Supporters**
+
+---
+
+## Stargazers over time 📈
+
+[![Stargazers over time](https://starchart.cc/adityatelange/hugo-PaperMod.svg?background=%23ffffff00&axis=%23858585&line=%236b63ff)](https://starchart.cc/adityatelange/hugo-PaperMod)

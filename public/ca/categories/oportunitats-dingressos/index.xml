@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Oportunitats D&#39;ingressos on Digitramp 3.0</title>
+    <link>http://localhost:1313/ca/categories/oportunitats-dingressos/</link>
+    <description>Recent content in Oportunitats D&#39;ingressos on Digitramp 3.0</description>
+    <image>
+      <title>Digitramp 3.0</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.126.1</generator>
+    <language>ca</language>
+    <copyright>Digitramp Contributors</copyright>
+    <lastBuildDate>Fri, 06 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/ca/categories/oportunitats-dingressos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cobra per recollir escombraries</title>
+      <link>http://localhost:1313/ca/posts/how-to-make-money-trashback/</link>
+      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ca/posts/how-to-make-money-trashback/</guid>
+      <description>Descobreix com pots guanyar diners i ajudar al medi ambient recollint escombraries amb l&amp;#39;aplicació TrashBack.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/ca/posts/codearena/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ca/posts/codearena/</guid>
+      <description>Per què? En el panorama d&amp;rsquo;oportunitats d&amp;rsquo;ingressos alternatives, el món digital ofereix una gran quantitat d&amp;rsquo;opcions per aquells amb habilitats en programació. CodeArena destaca com una plataforma que no només permet als desenvolupadors millorar les seves habilitats sinó també guanyar diners a través de reptes de programació. Aprofita l&amp;rsquo;esperit competitiu de la programació organitzant concursos on les millors solucions són recompensades. Aquesta plataforma és especialment atractiva per als programadors que volen monetitzar les seves habilitats, participar en una competició saludable i obtenir reconeixement a la comunitat de desenvolupadors.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Style De Vie Sain on Digitramp 3.0</title>
+    <link>http://localhost:1313/fr/tags/style-de-vie-sain/</link>
+    <description>Recent content in Style De Vie Sain on Digitramp 3.0</description>
+    <image>
+      <title>Digitramp 3.0</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.126.1</generator>
+    <language>fr</language>
+    <copyright>Digitramp Contributors</copyright>
+    <lastBuildDate>Sat, 02 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/fr/tags/style-de-vie-sain/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Récompenses de marche : Transformez vos pas en revenus</title>
+      <link>http://localhost:1313/fr/posts/walking-money/</link>
+      <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/posts/walking-money/</guid>
+      <description>Découvrez comment la marche peut vous rapporter des récompenses et même de l&amp;#39;argent grâce à diverses applications. Apprenez les avantages, les méthodes et les résultats de l&amp;#39;utilisation des applications de récompenses de marche.</description>
+    </item>
+  </channel>
+</rss>

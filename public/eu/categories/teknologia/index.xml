@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Teknologia on Digitramp 3.0</title>
+    <link>http://localhost:1313/eu/categories/teknologia/</link>
+    <description>Recent content in Teknologia on Digitramp 3.0</description>
+    <image>
+      <title>Digitramp 3.0</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.126.1</generator>
+    <language>eu</language>
+    <copyright>Digitramp Contributors</copyright>
+    <lastBuildDate>Tue, 03 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/eu/categories/teknologia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git Arazoak Konpontzen Diru Sarrerak Lortzeko</title>
+      <link>http://localhost:1313/eu/posts/how-to-make-money-solving-git-issues/</link>
+      <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/posts/how-to-make-money-solving-git-issues/</guid>
+      <description>Jasotzen diru sarrerak Git arazoak konpontzen eta kode ireki proiektuei ekarpenak egiten bidez.</description>
+    </item>
+    <item>
+      <title>Interneteko Sarbide Eskutik Eskuter partekatutik</title>
+      <link>http://localhost:1313/eu/posts/internet-from-shared-scooter/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/posts/internet-from-shared-scooter/</guid>
+      <description>Gida bat interneteko sarbidea nola eskuratzeko, eskuter elektriko baten IoT jarraipenaren SIM txartelaren bidez.</description>
+    </item>
+  </channel>
+</rss>

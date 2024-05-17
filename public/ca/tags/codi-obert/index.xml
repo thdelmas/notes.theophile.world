@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Codi Obert on Digitramp 3.0</title>
+    <link>http://localhost:1313/ca/tags/codi-obert/</link>
+    <description>Recent content in Codi Obert on Digitramp 3.0</description>
+    <image>
+      <title>Digitramp 3.0</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.126.1</generator>
+    <language>ca</language>
+    <copyright>Digitramp Contributors</copyright>
+    <lastBuildDate>Tue, 03 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/ca/tags/codi-obert/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cobra per resoldre problemes de Git</title>
+      <link>http://localhost:1313/ca/posts/how-to-make-money-solving-git-issues/</link>
+      <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ca/posts/how-to-make-money-solving-git-issues/</guid>
+      <description>Una guia concisa sobre com guanyar diners resolent problemes de Git i contribuint a projectes de codi obert.</description>
+    </item>
+  </channel>
+</rss>

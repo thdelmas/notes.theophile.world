@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Supervivència on Digitramp 3.0</title>
+    <link>http://localhost:1313/ca/categories/superviv%C3%A8ncia/</link>
+    <description>Recent content in Supervivència on Digitramp 3.0</description>
+    <image>
+      <title>Digitramp 3.0</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.126.1</generator>
+    <language>ca</language>
+    <copyright>Digitramp Contributors</copyright>
+    <lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/ca/categories/superviv%C3%A8ncia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Elements essencials i útils per a la supervivència en un món post-apocalíptic</title>
+      <link>http://localhost:1313/ca/posts/survival-pack/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ca/posts/survival-pack/</guid>
+      <description>Una guia completa dels elements essencials i útils per a la supervivència en un món post-apocalíptic, incloent les millors opcions revisades per la comunitat i on comprar-los per a una entrega ràpida.</description>
+    </item>
+  </channel>
+</rss>

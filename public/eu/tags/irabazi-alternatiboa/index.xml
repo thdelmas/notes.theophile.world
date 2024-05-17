@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Irabazi Alternatiboa on Digitramp 3.0</title>
+    <link>http://localhost:1313/eu/tags/irabazi-alternatiboa/</link>
+    <description>Recent content in Irabazi Alternatiboa on Digitramp 3.0</description>
+    <image>
+      <title>Digitramp 3.0</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.126.1</generator>
+    <language>eu</language>
+    <copyright>Digitramp Contributors</copyright>
+    <lastBuildDate>Sun, 04 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/eu/tags/irabazi-alternatiboa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CodeArena: Kodeatarien Kode bidez irabazi</title>
+      <link>http://localhost:1313/eu/posts/codearena/</link>
+      <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/posts/codearena/</guid>
+      <description>Aztertu nola eskaintzen duen CodeArena plataforma berezia kodean diru irabazteko, gaitasunak hobetzeko, eta garatzaile komunitatearekin konektatzeko kode erronkak bidez.</description>
+    </item>
+    <item>
+      <title>Ibilbideen Sariak: Ibili Zehaztuz Diru Sartu Bitartean</title>
+      <link>http://localhost:1313/eu/posts/walking-money/</link>
+      <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/posts/walking-money/</guid>
+      <description>Ikasi nola bihurtu zure eguneroko pasuak sariak bihurtzeko ibilbide aplikazioekin.</description>
+    </item>
+    <item>
+      <title>Get Crow Workers: Nola Objektuak Ekartzeko Sugeak Nola Trebatu</title>
+      <link>http://localhost:1313/eu/posts/get-crow-workers/</link>
+      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/posts/get-crow-workers/</guid>
+      <description>Gida bat nola entrenatu sugeak objektuak ekartzeko, behar diren materialak, urratsak eta entrenamendu arrakastatsuak lortzeko aholkuak barne.</description>
+    </item>
+  </channel>
+</rss>

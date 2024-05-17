@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blockchain on Digitramp 3.0</title>
+    <link>http://localhost:1313/tags/blockchain/</link>
+    <description>Recent content in Blockchain on Digitramp 3.0</description>
+    <image>
+      <title>Digitramp 3.0</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.126.1</generator>
+    <language>en</language>
+    <copyright>Digitramp Contributors</copyright>
+    <lastBuildDate>Thu, 05 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Generate Passive Income with Your Cryptos</title>
+      <link>http://localhost:1313/posts/stacking-crypto/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/stacking-crypto/</guid>
+      <description>Learn how to earn passive income by staking your cryptocurrency assets and participating in blockchain network validation.</description>
+    </item>
+  </channel>
+</rss>

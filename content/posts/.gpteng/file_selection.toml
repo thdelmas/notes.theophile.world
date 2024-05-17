@@ -1,0 +1,23 @@
+# Remove '#' to select a file.
+
+# gpt-engineer can only read selected files. Including irrelevant files will degrade performance, cost additional tokens and potentially overflow token limit.
+
+[files]
+#"La-Cuponera.md" = "selected"
+#"Walking-Money.md" = "selected"
+#"Trashback-Rewards.md" = "selected"
+"Internet-From-Shared-Scooter.md" = "selected"
+#"Bat-Brave-Rewards.fr.md" = "selected"
+#"get-paid-for-housekeeping.md" = "selected"
+#"too-good-to-go.md" = "selected"
+#"CodeArena.md" = "selected"
+#"learn-and-earn-crypto.md" = "selected"
+#"stacking-crypto.md" = "selected"
+#"Google-Opinion-Rewards.md" = "selected"
+#"how-to-make-money-solving-git-issues.md" = "selected"
+#"get-crow-workers.md" = "selected"
+#"how-to-make-money-trashback.md" = "selected"
+#"Sweatcoin-Walking-Rewards.md" = "selected"
+#"how-to-make-money-google-rewards.md" = "selected"
+#"Bat-Brave-Rewards.md" = "selected"
+# 

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Diru Aurrezpena on Digitramp 3.0</title>
+    <link>http://localhost:1313/eu/tags/diru-aurrezpena/</link>
+    <description>Recent content in Diru Aurrezpena on Digitramp 3.0</description>
+    <image>
+      <title>Digitramp 3.0</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.126.1</generator>
+    <language>eu</language>
+    <copyright>Digitramp Contributors</copyright>
+    <lastBuildDate>Sat, 03 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/eu/tags/diru-aurrezpena/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Diru Gehiago Aurrezteko eta Elikagai Hutsen Desperdizioa Gutxitu &#39;Too Good To Go&#39; Aplikazioarekin</title>
+      <link>http://localhost:1313/eu/posts/too-good-to-go/</link>
+      <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/posts/too-good-to-go/</guid>
+      <description>&amp;#39;Too Good To Go&amp;#39; aplikazioak nola laguntzen duen diru aurreztean janariak, batera elikagai desberdinak erosiz eta desperdizioa gutxituz. Ikusi onurak, aplikazioa nola erabili eta ingurumenaren gaineko eragina.</description>
+    </item>
+  </channel>
+</rss>

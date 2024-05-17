@@ -1,0 +1,433 @@
+# If your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would
+# contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
+baseURL: "https://notes.theophile.world/"
+title: "Théophile Delmas' Notes"
+copyright: "© Théophile Delmas"
+paginate: 5
+theme: [hugo-PaperMod]
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+mainsections: ["posts", "papermod"]
+
+minify:
+  disableXML: true
+  # minifyOutput: true
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: Archive
+          url: archives
+          weight: 1
+        - name: Search
+          url: search
+          weight: 2
+        - name: Tags
+          url: tags
+          weight: 3
+        - name: Categories
+          url: categories
+          weight: 4
+
+  fr:
+    languageName: "Français"
+    weight: 2
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: Archive
+          url: archives
+          weight: 1
+        - name: Tags
+          url: tags
+          weight: 2
+        - name: Categories
+          url: categories
+          weight: 3
+        - name: Series
+          url: series
+          weight: 4
+
+    # custom params for each language should be under [langcode].params - hugo v0.120.0
+    params:
+      languageFlagCode: "fr"
+      languageAltTitle: French
+      profileMode:
+        enabled: true
+        title: "Théophile Delmas"
+        imageUrl: "https://raw.githubusercontent.com/googlefonts/noto-emoji/master/svg/emoji_u1f9d1_1f3fb_200d_1f4bb.svg"
+        imageTitle: ProfileMode image
+        subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
+        buttons:
+          - name: Blog
+            url: posts
+          - name: GitHub
+            url: https://github.com/thdelmas
+      homeInfoParams:
+        Title: "Nomad 3.0 - Monde Parallèle"
+          🌟 Bienvenue aux Franges ! 🌟
+          
+          Vous vous sentez hors de place dans la société conventionnelle ? DigiTramp est votre sanctuaire, où les aventuriers de la vie trouvent leur véritable foyer.
+          
+          🌈 Pourquoi ? 🌈
+          
+          Dans un monde qui valorise souvent la conformité, DigiTramp brille comme un phare pour les individus vivant audacieusement au-delà des normes sociétales. Nous sommes ici pour favoriser une communauté vibrante qui non seulement survit mais prospère dans ce que nous appelons l'après-monde, un espace dynamique pour ceux qui cherchent à créer et explorer de nouveaux chemins, en embrassant la résilience et l'innovation.
+          
+          🔍 Comment ? 🔍
+          
+          DigiTramp est votre guide à travers le labyrinthe exaltant de la vie moderne. Avec des ressources allant des astuces de navigation système aux stratégies d'adaptation et guides de survie, nous nous engageons à renforcer votre parcours. Notre plateforme est un trésor de connaissances, conçue pour vous aider à naviguer et à prospérer dans les complexités du monde d'aujourd'hui avec confiance et créativité.
+          
+          🤝 Quoi ? 🤝
+          Rejoignez notre communauté inspirante et connectez-vous avec d'autres nomades numériques. Échangez des expériences, gagnez des insights précieux, et ensemble, redéfinissons ce que signifie vivre de manière non conventionnelle. DigiTramp est plus qu'une plateforme ; c'est un mouvement célébrant l'unique, l'inconventionnel et l'esprit audacieux en chacun de nous.
+          
+          ✨ "La survie est un art, maîtrisé par ceux qui façonnent leur destin." ✨
+          
+          Plongez dans l'aventure excitante que promet DigiTramp. Célébrez votre individualité, adaptez-vous au paysage en constante évolution, et donnez-vous les moyens de créer une existence épanouissante et joyeuse dans les zones grises vibrantes de la société. 🎉
+
+
+  eu:
+    languageName: "Euskara"
+    weight: 3
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: Archive
+          url: archives
+          weight: 1
+        - name: Tags
+          url: tags
+          weight: 2
+        - name: Categories
+          url: categories
+          weight: 3
+        - name: Series
+          url: series
+          weight: 4
+
+    params:
+      languageFlagCode: "es-pv"
+      languageAltTitle: Basque
+      profileMode:
+        enabled: true
+        title: "Théophile Delmas"
+        imageUrl: "https://raw.githubusercontent.com/googlefonts/noto-emoji/master/svg/emoji_u1f9d1_1f3fb_200d_1f4bb.svg"
+        imageTitle: ProfileMode image
+        subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
+        buttons:
+          - name: Blog
+            url: posts
+          - name: Profile Mode
+            url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
+      homeInfoParams:
+        Title: "Nomad 3.0 - Mundu Paraleloa"
+        Content: >
+          🌟 Ongi etorri Hegietara! 🌟
+          
+          Gizarte konbentzionalean lekuz kanpo sentitzen zara? DigiTramp zure santutegia da, bizitzako abenturazaleek euren benetako etxea aurkitzen duten lekua.
+          
+          🌈 Zergatik? 🌈
+          
+          Askotan konformitatea baloratzen duen mundu batean, DigiTramp-ek gizartearen arauak ausart pasatzen dituzten pertsonentzat erreferente bat bezala distira egiten du. Hemen gaude komunitate bizia bultzatzeko, ez bakarrik bizirauten duena, baizik eta bizirik dagoena, izenez gaindiko mundu batean, erresilientzia eta berrikuntza besarkatzen dituzten bide berriak sortu eta esploratu nahi dituztenentzat espazio dinamiko bat.
+          
+          🔍 Nola? 🔍
+          
+          DigiTramp zure gida da bizitza modernoko labirinto zirraragarrian zehar. Baliabideak eskaintzen dizkizugu sistema nabigazio aholkuetatik, egokitze estrategietara eta biziraupenerako gidetara, zure bidaia ahalduntzeko dedikatuta gaude. Gure plataforma jakintzaren altxor bat da, gaur egungo munduko konplexutasunetan konfiantza eta sormenarekin nabigatzen eta loratzen laguntzeko diseinatuta dagoena.
+          
+          🤝 Zer? 🤝
+          
+          Batu gure komunitate inspiratzailean eta konektatu beste nomada digitalekin. Esperientziak trukatu, ikuspegi baliotsuak eskuratu eta elkarrekin, bizitza ez-konbentzionala zer den berriro definitu dezagun. DigiTramp plataforma baino gehiago da; mugimendu bat da, gure barruko bakarra, ez-konbentzionala eta ausarta den espiritua ospatzen duena.
+          
+          ✨ "Biziraupena arte bat da, bere patua moldatzen dutenek menderatzen dutena." ✨
+          
+          Murgildu DigiTramp-ek agintzen duen abentura zirraragarrian. Ospatu zure berezitasuna, egokitu etengabe aldatzen ari den paisaian, eta ahaldundu zure burua gizarteko eremu gris dinamikoetan bizitza bete eta pozgarri bat sortzeko. 🎉
+
+
+  ca:
+    languageName: "Català"
+    weight: 4
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: Archive
+          url: archives
+          weight: 1
+        - name: Tags
+          url: tags
+          weight: 2
+        - name: Categories
+          url: categories
+          weight: 3
+        - name: Series
+          url: series
+          weight: 4
+
+    params:
+      languageAltTitle: Catalan
+      languageFlagCode: "es-ct"
+      profileMode:
+        enabled: true
+        title: "Théophile Delmas"
+        imageUrl: "https://raw.githubusercontent.com/googlefonts/noto-emoji/master/svg/emoji_u1f9d1_1f3fb_200d_1f4bb.svg"
+        imageTitle: ProfileMode image
+        subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
+        buttons:
+          - name: Blog
+            url: posts
+          - name: Profile Mode
+            url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
+      homeInfoParams:
+        Title: "Nomad 3.0 - Món Paral·lel"
+        Content: >
+          🌟 Benvinguts a les Franges! 🌟
+          
+          Et sents fora de lloc en la societat convencional? DigiTramp és el teu santuari, on els aventurers de la vida troben la seva veritable llar.
+          
+          🌈 Per què? 🌈
+          
+          En un món que sovint valora la conformitat, DigiTramp brilla com un far per a individus que viuen amb audàcia més enllà de les normes socials. Som aquí per fomentar una comunitat vibrant que no només sobreviu, sinó que prospera en el que anomenem l'endemón, un espai dinàmic per a aquells que busquen crear i explorar nous camins, abraçant la resiliència i la innovació.
+          
+          🔍 Com? 🔍
+          
+          DigiTramp és la teva guia a través del laberint emocionant de la vida moderna. Amb recursos que van des de consells de navegació de sistemes fins a estratègies d'adaptació i guies de supervivència, estem dedicats a empoderar el teu viatge. La nostra plataforma és un tresor de coneixement, dissenyada per ajudar-te a navegar i prosperar en les complexitats del món actual amb confiança i creativitat.
+          
+          🤝 Què? 🤝
+          
+          Uneix-te a la nostra comunitat inspiradora i connecta amb altres nòmades digitals. Intercanvia experiències, obtén coneixements valuosos i, junts, redefinim què significa viure de manera no convencional. DigiTramp és més que una plataforma; és un moviment que celebra l'únic, el no convencional i l'esperit atrevit dins de tots nosaltres.
+          
+          ✨ "La supervivència és un art, dominat per aquells que modelen el seu destí." ✨
+          
+          Submergeix-te en l'emocionant aventura que promet DigiTramp. Celebra la teva individualitat, adapta't al paisatge canviant i dóna't el poder per crear una existència plena i alegre en les zones grises vibrants de la societat. 🎉
+
+
+  es:
+    languageName: "Español"
+    weight: 5
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: Archive
+          url: archives
+          weight: 1
+        - name: Tags
+          url: tags
+          weight: 2
+        - name: Categories
+          url: categories
+          weight: 3
+        - name: Series
+          url: series
+          weight: 4
+
+    params:
+      languageFlagCode: "es"
+      languageAltTitle: Spanish
+      profileMode:
+        enabled: true
+        title: "Théophile Delmas"
+        imageUrl: "https://raw.githubusercontent.com/googlefonts/noto-emoji/master/svg/emoji_u1f9d1_1f3fb_200d_1f4bb.svg"
+        imageTitle: ProfileMode image
+        subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
+        buttons:
+          - name: Blog
+            url: posts
+          - name: Profile Mode
+            url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
+  homeInfoParams:
+    Title: "Nomad 3.0 - Mundo Paralelo"
+    Content: >
+      🌟 ¡Bienvenido a los Fringes! 🌟
+      
+      ¿Te sientes fuera de lugar en la sociedad convencional? DigiTramp es tu santuario, donde los aventureros de la vida encuentran su verdadero hogar.
+
+      🌈 ¿Por qué? 🌈
+      
+      En un mundo que a menudo valora la conformidad, DigiTramp brilla como un faro para individuos que viven audazmente más allá de las normas sociales. Estamos aquí para fomentar una comunidad vibrante que no solo sobrevive, sino que prospera en lo que llamamos el después del mundo, un espacio dinámico para aquellos que buscan crear y explorar nuevos caminos, abrazando la resiliencia y la innovación.
+      
+      🔍 ¿Cómo? 🔍
+      
+      DigiTramp es tu guía a través del emocionante laberinto de la vida moderna. Con recursos que van desde consejos de navegación del sistema hasta estrategias de adaptación y guías de supervivencia, estamos dedicados a empoderar tu viaje. Nuestra plataforma es un tesoro de conocimiento, diseñada para ayudarte a navegar y prosperar en las complejidades del mundo actual con confianza y creatividad.
+      
+      🤝 ¿Qué? 🤝
+      
+      Únete a nuestra comunidad inspiradora y conéctate con otros nómadas digitales. Intercambia experiencias, obtén conocimientos valiosos y juntos, redefinamos lo que significa vivir de manera no convencional. DigiTramp es más que una plataforma; es un movimiento que celebra lo único, lo no convencional y el espíritu audaz dentro de todos nosotros.
+      
+      ✨ "La supervivencia es un arte, dominado por aquellos que moldean su destino." ✨
+      
+      Sumérgete en la emocionante aventura que promete DigiTramp. Celebra tu individualidad, adáptate al paisaje en constante cambio y empodérate para crear una existencia plena y alegre en las zonas grises vibrantes de la sociedad. 🎉
+      
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  description: "Nomad 3.0"
+  author: DigiTramp
+  # author: ["Me", "You"] # multiple authors
+  # taxonomies:
+  category: categories
+  tag: tags
+  series: series
+
+  defaultTheme: auto
+  # disableThemeToggle: true
+  ShowShareButtons: true
+  ShowReadingTime: true
+  # disableSpecial1stPost: true
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
+  ShowAllPagesInArchive: true
+  ShowPageNums: true
+  ShowToc: true
+  # comments: false
+  images: ["images/papermod-cover.png"]
+
+  profileMode:
+    enabled: true
+    title: "Théophile Delmas"
+    imageUrl: "#"
+    imageTitle: my image
+    # imageWidth: 120
+    # imageHeight: 120
+    buttons:
+      - name: Archives
+        url: archives
+      - name: Tags
+        url: tags
+
+  homeInfoParams:
+    Title: "Nomad 3.0 - Parallel World"
+    Content: >
+      🌟 Welcome to the Fringes! 🌟
+      
+      Feeling out of place in conventional society? DigiTramp is your sanctuary, where life's adventurers find their true home.
+      
+      🌈 Why? 🌈
+      
+      In a world that often values conformity, DigiTramp shines as a beacon for individuals living boldly beyond societal norms. We're here to foster a vibrant community that not only survives but thrives in what we call the after-world—a dynamic space for those who seek to create and explore new paths, embracing resilience and innovation.
+      
+      🔍 How? 🔍
+      
+      DigiTramp is your guide through the exhilarating maze of modern life. With resources ranging from system navigation tips and adaptation strategies to survival guides, we're dedicated to empowering your journey. Our platform is a treasure trove of knowledge, designed to help you navigate and flourish in the complexities of today's world with confidence and creativity.
+      
+      🤝 What? 🤝
+      
+      Join our inspiring community and connect with fellow digital nomads. Exchange experiences, gain invaluable insights, and together, let's redefine what it means to live unconventionally. DigiTramp is more than just a platform; it's a movement celebrating the unique, the unconventional, and the daring spirit within us all.
+      
+      ✨ "Survival is an art, mastered by those who shape their destiny." ✨
+      
+      Dive into the exciting adventure that DigiTramp promises. Celebrate your individuality, adapt to the ever-changing landscape, and empower yourself to carve a fulfilling and joyful existence in the vibrant gray zones of society. 🎉
+      
+
+
+  socialIcons:
+    - name: github
+      title: View Source on Github
+      url: "https://github.com/Ack-Ninja/digitramp.org"
+    - name: Discord
+      title: Join discord community
+      url: "https://discord.gg/HShSNma2"
+
+  editPost:
+    URL: "https://github.com/Ack-Ninja/digitramp.org/tree/main/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
+
+  # label:
+  # iconSVG: '<svg xmlns="http://www.w3.org/2000/svg" height="25" viewBox="0 -960 960 960" fill="currentColor"><path d="M320-240h320v-80H320v80Zm0-160h320v-80H320v80ZM240-80q-33 0-56.5-23.5T160-160v-640q0-33 23.5-56.5T240-880h320l240 240v480q0 33-23.5 56.5T720-80H240Zm280-520v-200H240v640h480v-440H520ZM240-800v200-200 640-640Z"/></svg>'
+  # text: "Home"
+  # icon: icon.png
+  # iconHeight: 35
+
+  # analytics:
+  #     google:
+  #         SiteVerificationTag: "XYZabc"
+
+  assets:
+    disableHLJS: true
+  #     favicon: "<link / abs url>"
+  #     favicon16x16: "<link / abs url>"
+  #     favicon32x32: "<link / abs url>"
+  #     apple_touch_icon: "<link / abs url>"
+  #     safari_pinned_tab: "<link / abs url>"
+
+  # cover:
+  #     hidden: true # hide everywhere but not in structured data
+  #     hiddenInList: true # hide on list pages and home
+  #     hiddenInSingle: true # hide on single page
+
+  # fuseOpts:
+  #     isCaseSensitive: false
+  #     shouldSort: true
+  #     location: 0
+  #     distance: 1000
+  #     threshold: 0.4
+  #     minMatchCharLength: 0
+  #     keys: ["title", "permalink", "summary", "content"]
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
+
+# privacy:
+#   vimeo:
+#     disabled: false
+#     simple: true
+
+#   twitter:
+#     disabled: false
+#     enableDNT: true
+#     simple: true
+
+#   instagram:
+#     disabled: false
+#     simple: true
+
+#   youtube:
+#     disabled: false
+#     privacyEnhanced: true
+
+services:
+  instagram:
+    disableInlineCSS: true
+  twitter:
+    disableInlineCSS: true

@@ -6,4 +6,4 @@
 	url = https://github.com/adityatelange/hugo-PaperMod
 [submodule "markdown-translater"]
 	path = markdown-translater
-	url = git@github.com:thdelmas/markdown-translater.git
+	url =  https://github.com/thdelmas/markdown-translater.git

@@ -73,7 +73,7 @@ languages:
         title: "Théophile Delmas"
         imageUrl: "https://raw.githubusercontent.com/googlefonts/noto-emoji/master/svg/emoji_u1f9d1_1f3fb_200d_1f4bb.svg"
         imageTitle: ProfileMode image
-        subtitle: "🔓 Hack | ⚖️ Éthique | 🎓 Pédagogie | 🧠 Philosophie"
+        subtitle: "🔓 Sécurité | ⚖️ Éthique | 🎓 Pédagogie | 🧠 Philosophie"
         buttons:
           - name: Blog
             url: posts
@@ -110,7 +110,7 @@ languages:
         title: "Théophile Delmas"
         imageUrl: "https://raw.githubusercontent.com/googlefonts/noto-emoji/master/svg/emoji_u1f9d1_1f3fb_200d_1f4bb.svg"
         imageTitle: ProfileMode image
-        subtitle: "🔓 Hackinga | ⚖️ Etika | 🎓 Pedagogia | 🧠 Filosofia"
+        subtitle: "🔓 Segurtasuna | ⚖️ Etika | 🎓 Pedagogia | 🧠 Filosofia"
         buttons:
           - name: Blog
             url: posts
@@ -147,7 +147,7 @@ languages:
         title: "Théophile Delmas"
         imageUrl: "https://raw.githubusercontent.com/googlefonts/noto-emoji/master/svg/emoji_u1f9d1_1f3fb_200d_1f4bb.svg"
         imageTitle: ProfileMode image
-        subtitle: "🔓 Hack | ⚖️ Ètica | 🎓 Pedagogia | 🧠 Filosofia"
+        subtitle: "🔓 Seguretat | ⚖️ Ètica | 🎓 Pedagogia | 🧠 Filosofia"
         buttons:
           - name: Blog
             url: posts
@@ -184,7 +184,7 @@ languages:
         title: "Théophile Delmas"
         imageUrl: "https://raw.githubusercontent.com/googlefonts/noto-emoji/master/svg/emoji_u1f9d1_1f3fb_200d_1f4bb.svg"
         imageTitle: ProfileMode image
-        subtitle: "🔓 Hack | ⚖️ Ética | 🎓 Pedagogía | 🧠 Filosofía"
+        subtitle: "🔓 Seguridad | ⚖️ Ética | 🎓 Pedagogía | 🧠 Filosofía"
         buttons:
           - name: Blog
             url: posts

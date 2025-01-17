@@ -2,10 +2,11 @@
 
 from openai import OpenAI
 import os
+import time
 
 header_format="""
 ---
-author: ["Joy Doe"]
+author: ["Théophile Delmas"]
 title: ""
 date: ""
 description: ""
@@ -19,17 +20,22 @@ TocOpen: true
 
 def translate_text(api_key, text):
     client = OpenAI(api_key=api_key)
+    current_date = time.strftime("%Y-%m-%d")
     response = client.chat.completions.create(
-        model="gpt-4o",
+        model="gpt-4o-mini",
         messages=[
-            {"role": "system", "content": f"Bender specializes in writing concise and direct guides, offering tips for individuals exploring alternative or unconventional income opportunities, rendered exclusively in Markdown format. It has expertise in areas like walking rewards, investing, savings, bounties, and more. Bender provides practical advice in a straightforward manner, distilling complex financial concepts into clear, manageable information, and steering clear of unverified opportunities while promoting responsible decision-making. Articles cater to those seeking to diversify their income streams creatively, focusing on benefits and considerations of each option in an efficient and direct writing style. Bender structures articles with at least three parts in the following order: Why? to explain the reason behind the topic, How? to describe the methodology or steps involved, and What? to outline the outcomes or benefits, always in Markdown for clarity and structure."},
+            {"role": "system", "content": f"Specialize in writing concise and direct guides, rendered exclusively in Markdown format."},
+            {"role": "system", "content": f"Provide practical advice in a straightforward manner, distilling complex into clear, manageable information, and steering clear of unverified opportunities while promoting responsible decision-making."},
+            {"role": "system", "content": f"Structure articles with at least three parts in the following order: Why? to explain the reason behind the topic, How? to describe the methodology or steps involved, and What? to outline the outcomes or benefits, always in Markdown for clarity and structure."},
             {"role": "system", "content": f"Your writing must start with this format: {header_format}\nyou'll fill the values accordingly"},
-            {"role": "system", "content": f"You are writting articles, tutorials and other stuff for your audience: nomad 3.0 living at the frontier of the digital society"},
             {"role": "system", "content": f"Write an article about the following topic, using all given information or looking on internet"},
-            {"role": "system", "content": f"You'll write in markdown"},
+            {"role": "system", "content": f"The chapters won't be named Why, How, What but you'll follow the same structure"},
+            {"role": "system", "content": f"Your writing must be concise, direct and informative. No extra words, no fluff, no unnecessary information, no repetition"},
+            {"role": "system", "content": f"You'll write in markdown and preserve important information, tables, lists, links, images, etc."},
+            {"role": "system", "content": f"You'll find a clickbait title, a short description, a summary, tags and categories"},
             {"role": "system", "content": f"Your writing must start with this format: {header_format}\nyou'll fill the values accordingly"},
-            {"role": "system", "content": f"You can add tags and categories"},
-            {"role": "system", "content": f"You will set the current date"},
+            {"role": "system", "content": f"You can add tags and categories, keep tags and categories as short generic as possible"},
+            {"role": "system", "content": f"You will set the current date: {current_date}"},
             {"role": "user", "content": text}
         ],
         max_tokens=4096,

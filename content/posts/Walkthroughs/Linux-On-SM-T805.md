@@ -21,6 +21,8 @@ In today's fast-paced digital world, the ability to work from anywhere is essent
 - **Bluetooth Keyboard and Mouse**
 - **Remote Access Software (RDP/VNC)**
 
+![Tablet Outdoors](https://notes.theophile.world/assets/images/remote_setup.png)
+
 ## Setting Up Remote Access
 
 ### Choose Your Remote Access Protocol

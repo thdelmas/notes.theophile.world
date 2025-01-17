@@ -68,3 +68,5 @@ bower_components
 .aws-credentials.json
 .awspublish*
 
+#gpt
+prompt

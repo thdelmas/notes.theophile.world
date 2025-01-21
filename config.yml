@@ -244,7 +244,7 @@ params:
   socialIcons:
     - name: github
       title: View on Github
-      url: "https://github.com/thdelmas/digitramp.org"
+      url: "https://github.com/thdelmas/notes.theophile.world/"
     - name: email
       url: "mailto:contact@theophile.world"
     - name: linkedin
@@ -255,7 +255,7 @@ params:
       url: /index.xml
 
   editPost:
-    URL: "https://github.com/Ack-Ninja/digitramp.org/tree/main/content"
+    URL: "https://github.com/thdelmas/notes.theophile.world/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 

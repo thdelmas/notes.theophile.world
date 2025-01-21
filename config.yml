@@ -244,7 +244,7 @@ params:
   socialIcons:
     - name: github
       title: View on Github
-      url: "https://github.com/thdelmas/notes.theophile.world/"
+      url: "https://github.com/thdelmas/notes.theophile.world"
     - name: email
       url: "mailto:contact@theophile.world"
     - name: linkedin

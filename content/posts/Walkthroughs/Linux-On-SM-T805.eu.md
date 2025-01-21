@@ -1,203 +1,145 @@
 ---
 author: ["Théophile Delmas"]
-title: "Esetup wireless ultimatiboa para nomadas digitau: Aproveitando a potenzia de servidor en un tablet Samsung"
-date: "2025-01-17"
-description: "Descubre como crear un setup wireless potente e portátil usando un tablet Samsung e un servidor remoto, perfecto para nomadas digitau."
-summary: "Este guia proporciona un proceso paso a paso para que nomadas digitau configuren un espacio de trabayu wireless usando un tablet Samsung, un servidor remoto e periféricos Bluetooth, asegurando produtividade en movimentu."
-tags: ["Nomadas Digitau", "Trabayu Remotu", "Tecnologia", "Produtividade"]
-categories: ["Tecnologia", "Trabayu Remotu"]
+title: "Askatu zure Samsung Tabletaren Indarra: Urruneko Zerbitzari Sarbidea Ubuntu-n"
+date: "2025-01-21"
+description: "Digital nomadentzako urratsez urrats gida bat, Samsung tablet bat erabiliz Ubuntu-n exekutatzen den urruneko zerbitzari batera sarbidea lortzeko lanpostu wireless bat ezartzeko."
+summary: "Ikasi nola bihurtu zure Samsung tablet bat urruneko lanpostu indartsu bat, Ubuntu zerbitzari batera konektatuz. Gida honek hardware beharrak, software ezarpena eta errendimendu eta segurtasun optimoarentzako praktika onenak aztertzen ditu."
+tags: ["Samsung Tablet", "Ubuntu", "Urruneko Sarbidea", "Digital Nomad"]
+categories: ["Teknologia", "Gidak"]
 ShowToc: true
 TocOpen: true
 ---
-# Esetup wireless ultimatiboa para nomadas digitau: Aproveitando a potenzia de servidor en un tablet Samsung
 
-En l'actual mundu digital de ritmu acelerau, la capacidá de trabayu desde cualquier lugar ye esencial pa muchos profesionales, especialmente pa los nomadas digitau. Esta guia proporciona un detallau pasu a pasu pa crear un setup wireless potente usando un tablet Samsung pa acceder a un servidor remoto, mejoráu con periféricos Bluetooth.
+## Sarrera
 
-## Componentes Clave
+Gaur egungo azkar joan den digital munduan, digital nomadek edozein lekutatik lan egiteko malgutasuna behar dute. Gida honek urratsez urrats tutorial bat eskaintzen du, Samsung tablet bat erabiliz Ubuntu-n exekutatzen den urruneko zerbitzari batera sarbidea lortzeko lanpostu wireless indartsu bat ezartzeko.
 
-### Hardware Requeríu
-- **Tablet Samsung:** Cualquier serie Galaxy Tab S (S7/S8/etc.) que funcione con Android 11 o posterior
-- **Servidor Remotu:** Un desktop o laptop con al menos:
+## Osagai Oinarrizkoak
+
+### Beharrezko Hardwarea
+- **Samsung Tablet:** Galaxy Tab S seriea, Android 11 edo berriro
+- **Urruneko Zerbitzaria:** Mahaiko ordenagailu edo laptop bat, honako hauen ezaugarriak dituena:
   - 16GB RAM
-  - Procesador de cuatro núcleos
-  - 256GB d'almacenamientu
-  - Conexión a internet estable (mínimu 50Mbps d'upload)
-- **Periféricos Bluetooth:**
-  - Tecláu compatible con Android
-  - Ratón con Bluetooth 5.0 o posterior
-  - Opcional: Soporte portátil pa tablet
+  - Lau nukleoko prozesadorea
+  - 256GB biltegiratze
+  - Interneta konexio egonkorra (gutxienez 50Mbps igotze)
 
-### Software Requeríu
-- **Lado del Servidor:**
-  - Windows Pro/Enterprise o distribución de Linux
-  - Software de servidor VNC (TightVNC, RealVNC, o UltraVNC)
-  - Cuenta de servicio de DNS dinámico (si se usa internet residencial)
-- **Lado del Tablet:**
-  - App VNC Viewer o Microsoft Remote Desktop
-  - Cliente OpenVPN
-  - Herramientas de análisis de red (opcional)
+### Beharrezko Softwarea
+- **Zerbitzari aldean:**
+  - Ubuntu sistema eragilea
+  - VNC zerbitzari softwarea (adibidez, TightVNC)
+  - Dinamiko DNS zerbitzu kontua (etxeko internet erabiltzen bada)
 
-## Proceso Detallau de Configuración
+- **Tablet aldean:**
+  - VNC Viewer aplikazioa
+  - OpenVPN bezeroa
 
-### 1. Preparación del Servidor
+## Ezarpen Prozesua
 
-#### Para Sistemas Windows:
-1. **Activar Escritorio Remotu:**
-   ```
-   Panel de Control → Sistema → Configuración Remota → Permitir conexiones remotas
-   ```
-   - Desmarcar "Permitir conexiones solo desde equipos que ejecuten Escritorio Remoto con Autenticación de Nivel de Red"
-   - Agregar tu cuenta de Microsoft o usuario local a los usuarios permitíos
+### Zerbitzari Prestaketa
 
-2. **Configurar el Firewall de Windows:**
-   ```
-   Panel de Control → Firewall de Windows Defender → Configuración Avanzada
-   ```
-   - Crear nuevas reglas de entrada para los puertos 3389 (RDP) y 5900 (VNC)
-   - Habilitar la gestión remota
+#### Ubuntu Sistementzat:
 
-3. **Instalar el Servidor VNC:**
-   - Descargar e instalar TightVNC Server
-   - Durante la instalación:
-     - Establecer contraseñas primaria y de solo visualización
-     - Configurar el servicio pa que inicie con Windows
-     - Establecer el puerto predeterminado (5900)
-
-#### Para Sistemas Linux:
-1. **Instalar el Servidor VNC:**
+1. **Instalatu VNC Zerbitzaria:**
    ```bash
    sudo apt update
    sudo apt install tightvncserver
    ```
 
-2. **Crear un Script de Inicio de VNC:**
+2. **Sortu VNC Hasierako Script-a:**
+   ```bash
+   nano ~/vnc-startup.sh
+   ```
+   Gehitu hurrengo lerroak:
    ```bash
    #!/bin/bash
    vncserver :1 -geometry 1920x1080 -depth 24
    ```
-   Guardar como `~/vnc-startup.sh`
-   
-3. **Configurar la Configuración de Pantalla:**
+   Egin script-a exekutagarria:
+   ```bash
+   chmod +x ~/vnc-startup.sh
+   ```
+
+3. **Ezarri Iragazki Ezarpenak:**
    ```bash
    vncserver -kill :1
    mv ~/.vnc/xstartup ~/.vnc/xstartup.bak
    ```
-   Crear un nuevo `~/.vnc/xstartup`:
+   Sortu berri bat `~/.vnc/xstartup` fitxategi:
+   ```bash
+   nano ~/.vnc/xstartup
+   ```
+   Gehitu hurrengo edukia:
    ```bash
    #!/bin/bash
    xrdb $HOME/.Xresources
    startxfce4 &
    ```
 
-### 2. Configuración de Red
+### Sarea Konfiguratzea
 
-1. **Configurar DNS Dinámico:**
-   - Crear cuenta con un servicio como No-IP o DynDNS
-   - Instalar cliente de DNS dinámico en el servidor
-   - Configurar el nombre de dominio (ej., myserver.ddns.net)
+1. **Dinamiko DNS Ezarri:**
+   - Kontu bat sortu No-IP edo DynDNS bezalako zerbitzu batekin.
+   - Instalatu dinamikoko DNS bezeroa zerbitzarian.
+   - Konfiguratu domeinu izena (adibidez, myserver.ddns.net).
 
-2. **Configuración del Router:**
-   - Acceder al panel de administración del router (típicamente 192.168.1.1)
-   - Configurar el reenvío de puertos:
+2. **Router Konfigurazioa:**
+   - Sar zaitez router administrazio panelera (normalean 192.168.1.1).
+   - Ezarri portu aurreratzeak:
      ```
-     RDP: Externo 3389 → Interno 3389
-     VNC: Externo 5900 → Interno 5900
-     ```
-   - Habilitar UPnP para el mapeo automático de puertos
-   - Configurar QoS para priorizar el tráfico de acceso remoto
-
-3. **Medidas de Seguridad:**
-   - Configurar fail2ban para prevenir ataques de fuerza bruta
-   - Configurar reglas de UFW o Firewall de Windows
-   - Habilitar registro de conexiones
-
-### 3. Configuración del Tablet
-
-1. **Configuración del Cliente VNC:**
-   - Instalar VNC Viewer desde la Play Store
-   - Crear un perfil de conexión:
-     ```
-     Dirección: your-ddns-domain.net:5900
-     Calidad de Imagen: Automática
-     Cifrado: Habilitar
+     VNC: Kanpokoa 5900 → Barnekoa 5900
      ```
 
-2. **Integración de Periféricos Bluetooth:**
-   ```
-   Configuración → Dispositivos Conectados → Emparejar nuevo dispositivo
-   ```
-   - Habilitar el modo de descubrimiento Bluetooth en los periféricos
-   - Para el teclado:
-     - Probar la distribución del teclado
-     - Configurar la configuración del teclado Android
-     - Establecer atajos
-   - Para el ratón:
-     - Ajustar la velocidad del puntero
-     - Configurar controles de gesto
-     - Establecer el comportamiento del clic derecho
+3. **Segurtasun Neurriak:**
+   - Ezarri `fail2ban` indarrezko erasoak saihesteko.
+   - Konfiguratu `ufw` (Sinple Firewall) arauak.
+   - Aktibatu konexio logak.
 
-3. **Optimización del Rendimiento:**
-   - Habilitar Opciones de Desarrollador:
+### Tablet Konfigurazioa
+
+1. **VNC Bezeroaren Ezarpena:**
+   - Instalatu VNC Viewer aplikazioa Play Store-tik.
+   - Sortu konexio profila:
      ```
-     Configuración → Acerca del tablet → Número de compilación (tocar 7 veces)
-     ```
-   - Configurar el renderizado GPU
-   - Ajustar escalas de animación
-   - Habilitar forzar 4x MSAA para mejor claridad de texto
-
-## Guía de Solución de Problemas
-
-### Problemas de Conexión
-1. **No se Puede Conectar al Servidor:**
-   - Verificar que el servidor esté en funcionamiento y accesible
-   - Comprobar la configuración de reenvío de puertos
-   - Probar la conexión localmente primero
-   - Usar `netstat -an` para verificar puertos en escucha
-
-2. **Rendimiento Pobre:**
-   - Comprobar el ancho de banda de la red usando speedtest
-   - Monitorear el uso de CPU/RAM del servidor
-   - Ajustar la configuración de codificación de VNC:
-     ```
-     Codificación: ZRLE para equilibrio
-     Compresión: Nivel 6
-     Calidad: 8 para buen equilibrio
+     Helbidea: zure-ddns-domeinua.net:5900
+     Irudi Kalitatea: Automatikoki
+     Enkriptazioa: Aktibatu
      ```
 
-3. **Desconexiones de Bluetooth:**
-   - Limpiar la caché de Bluetooth
-   - Actualizar el firmware del tablet
-   - Comprobar interferencias de dispositivos USB 3.0
-   - Mantener los periféricos dentro de 10 metros
+2. **Errendimendu Optimizazioa:**
+   - Aktibatu Garatzaile Aukerak:
+     ```
+     Ezarpenak → Tabletari buruz → Build zenbakia (bost aldiz ukitu)
+     ```
+   - Konfiguratu GPU irudikapena.
+   - Egokitu animazio eskalak.
+   - Aktibatu "Force 4x MSAA" testuaren argitasun hobea lortzeko.
 
-## Mejores Prácticas para la Operación Diaria
+## Eguneroko Eragiketa Praktika Onenak
 
-1. **Iniciando tu Sesión:**
-   - Conectar a VPN primero
-   - Lanzar cliente VNC/RDP
-   - Verificar el estado de seguridad de la conexión
-   - Comprobar los niveles de batería de los periféricos
+1. **Zure Saioa Hastea:**
+   - Konektatu lehenik VPN-ra.
+   - Abiarazi VNC bezeroa.
+   - Berretsi konexio segurtasun egoera.
 
-2. **Durante la Operación:**
-   - Monitorear la calidad de la conexión
-   - Usar funciones de ahorro de energía del tablet
-   - Revisiones de seguridad regulares
-   - Mantener un método de conexión de respaldo
+2. **Eragiketan:**
+   - Monitorizatu konexio kalitatea.
+   - Erabili tabletaren energia aurrezteko ezaugarriak.
+   - Egin segurtasun kontrolak maiz.
 
-3. **Finalizando tu Sesión:**
-   - Procedimiento de apagado adecuado
-   - Desconectar en orden inverso
-   - Verificar el estado del servidor
-   - Registrar detalles de la sesión si es necesario
+3. **Zure Saioa Amaitzea:**
+   - Jarri martxan itzultze prozedura egokia.
+   - Deskonectatu alderantzizko ordenan.
+   - Berretsi zerbitzariaren egoera.
 
-## Lista de Verificación de Seguridad
+## Segurtasun Zerrenda
 
-- [ ] Cambiar contraseñas predeterminadas
-- [ ] Habilitar autenticación de dos factores
-- [ ] Auditorías de seguridad regulares
-- [ ] Actualizar todos los componentes de software
-- [ ] Monitorear registros de acceso
-- [ ] Configurar copias de seguridad automáticas
-- [ ] Probar el plan de recuperación ante desastres
+- [ ] Aldatu lehenetsitako pasahitzak.
+- [ ] Aktibatu bi faktoreko autentifikazioa.
+- [ ] Egin segurtasun azterketa maiz.
+- [ ] Eguneratu software osagai guztiak.
+- [ ] Monitorizatu sarbide logak.
+- [ ] Konfiguratu automatikoko backup-ak.
+- [ ] Proba egin hondamendien berreskurapen plana.
 
-Este setup mejoráu proporciona una base robusta para que los nomadas digitau creen un potente espacio de trabayu móvil. El mantenimiento regular y las actualizaciones de seguridad garantizarán un funcionamiento confiable continuo.
+Ezarpen honek digital nomadentzako lanpostu mugikor indartsu bat eskaintzen du. Mantentze maiz eta segurtasun eguneratzeek funtzionamendu fidagarria bermatuko dute.

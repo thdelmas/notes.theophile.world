@@ -22,7 +22,7 @@ def translate_text(api_key, text):
     client = OpenAI(api_key=api_key)
     current_date = time.strftime("%Y-%m-%d")
     response = client.chat.completions.create(
-        model="gpt-4o-mini",
+        model="gpt-4o",
         messages=[
             {"role": "system", "content": f"Specialize in writing concise and direct guides, rendered exclusively in Markdown format."},
             {"role": "system", "content": f"Provide practical advice in a straightforward manner, distilling complex into clear, manageable information, and steering clear of unverified opportunities while promoting responsible decision-making."},
